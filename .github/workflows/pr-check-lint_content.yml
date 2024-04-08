@@ -126,7 +126,6 @@ jobs:
           echo "${{ env.MD_LINT_LOG }}" > /tmp/artifacts/md_lint_log.txt
 
       - uses: actions/upload-artifact@v4
-        if: ${{ env.GIT_DIFF_CONTENT }}
         with:
           name: diff
           path: /tmp/artifacts/
