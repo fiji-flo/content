@@ -27,7 +27,9 @@ jobs:
 
       - name: Screw around
         run: |
-          cat {{ env.GITHUB_EVENT_PATH }} | sed "s/{{ github.sha }}/{{ env.event.workflow_run.head_sha }}/g" > /tmp/custom_env.json
+          cat ${{ env.GITHUB_EVENT_PATH }}
+          cat ${{ env.GITHUB_EVENT_PATH }} | sed "s/${{ github.sha }}/${{ env.event.workflow_run.head_sha }}/g" > /tmp/custom_env.json
+          cat /tmp/custom_env.json
 
       - name: Setup reviewdog
         uses: reviewdog/action-setup@v1
