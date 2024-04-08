@@ -39,7 +39,8 @@ jobs:
             -name="mdn-linter" \
             -f=diff \
             -f.diff.strip=1 \
-            -reporter=github-pr-review < diff_file.txt
+            -reporter=github-pr-review \
+            -guess < diff_file.txt
 
       - name: Add reviews for markdownlint errors
         if: ${{ hashFiles('md_lint_log.txt') != '' }}
@@ -51,4 +52,5 @@ jobs:
             -efm="%f:%l %m" \
             -name="markdownlint" \
             -diff="git diff" \
-            -reporter="github-pr-review" < md_lint_log.txt
+            -reporter="github-pr-review"\
+            -guess < md_lint_log.txt
