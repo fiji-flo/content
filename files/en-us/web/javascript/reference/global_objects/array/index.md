@@ -1,5 +1,5 @@
 ---
-title: Array
+titl: Array
 slug: Web/JavaScript/Reference/Global_Objects/Array
 page-type: javascript-class
 browser-compat: javascript.builtins.Array
@@ -10,6 +10,9 @@ browser-compat: javascript.builtins.Array
 The **`Array`** object, as with arrays in other programming languages, enables [storing a collection of multiple items under a single variable name](/en-US/docs/Learn/JavaScript/First_steps/Arrays), and has members for [performing common array operations](#examples).
 
 ## Description
+
+foo
+---
 
 In JavaScript, arrays aren't [primitives](/en-US/docs/Glossary/Primitive) but are instead `Array` objects with the following core characteristics:
 
@@ -33,7 +36,9 @@ JavaScript syntax requires properties beginning with a digit to be accessed usin
 The `2` in `years[2]` is coerced into a string by the JavaScript engine through an implicit `toString` conversion. As a result, `'2'` and `'02'` would refer to two different slots on the `years` object, and the following example could be `true`:
 
 ```js
-console.log(years["2"] !== years["02"]);
+console.log(
+  years["2"] !== years["02"]
+);
 ```
 
 Only `years['2']` is an actual array index. `years['02']` is an arbitrary string property that will not be visited in array iteration.
