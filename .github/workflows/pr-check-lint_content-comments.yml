@@ -1,0 +1,54 @@
+name: Lint and review content files - add comments
+
+on:
+  workflow_run:
+    workflows: ["Lint and review content files"]
+    types:
+      - completed
+
+permissions:
+  pull-requests: write
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  lint-and-review-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: diff
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Setup reviewdog
+        uses: reviewdog/action-setup@v1
+        with:
+          reviewdog_version: latest
+
+      - name: Suggest changes using diff
+        if: ${{ hashFiles('diff_file.txt') != '' }}
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          reviewdog \
+            -name="mdn-linter" \
+            -f=diff \
+            -f.diff.strip=1 \
+            -reporter=github-pr-review < diff_file.txt
+
+      - name: Add reviews for markdownlint errors
+        if: ${{ hashFiles('md_lint_log.txt') != '' }}
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          reviewdog \
+            -efm="%f:%l:%c %m" \
+            -efm="%f:%l %m" \
+            -name="markdownlint" \
+            -diff="git diff" \
+            -reporter="github-pr-review" < md_lint_log.txt
