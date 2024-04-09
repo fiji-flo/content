@@ -28,6 +28,8 @@ jobs:
       - name: Check for artifacts
         run: |
           echo "HAS_ARTIFACT=${{ hashFiles('build/') != '' }}" >> "$GITHUB_ENV"
+          ls
+          echo ${{ env.HAS_ARTIFACT }}
 
       - uses: actions/checkout@v4
         if: ${{ env.HAS_ARTIFACT }}
