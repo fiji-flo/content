@@ -30,7 +30,7 @@ jobs:
           echo "HAS_ARTIFACT=${{ hashFiles('build/') != '' }}" >> "$GITHUB_ENV"
 
       - uses: actions/checkout@v4
-        if: ${{ env.HAS_ARTIFACT == "true" }}
+        if: ${{ env.HAS_ARTIFACT }} == "true"
         with:
           repository: mdn/yari
           path: yari
@@ -43,7 +43,7 @@ jobs:
 
       # See https://www.peterbe.com/plog/install-python-poetry-github-actions-faster
       - name: Load cached ~/.local
-        if: ${{ env.HAS_ARTIFACT == "true" }}
+        if: ${{ env.HAS_ARTIFACT }} == "true"
         uses: actions/cache@v4
         with:
           path: ~/.local
@@ -59,7 +59,7 @@ jobs:
           virtualenvs-in-project: true
 
       - name: Load cached venv
-        if: ${{ env.HAS_ARTIFACT == "true" }}
+        if: ${{ env.HAS_ARTIFACT }} == "true"
         id: cached-poetry-dependencies
         uses: actions/cache@v4
         with:
@@ -69,19 +69,19 @@ jobs:
           key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}-${{ steps.setup-python.outputs.python-version }}-0
 
       - name: Install poetry dependencies
-        if: ${{ env.HAS_ARTIFACT == "true" }} && steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+        if: ${{ env.HAS_ARTIFACT }} == "true" && steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
         run: |
           cd yari/deployer
           poetry install --no-interaction --no-root
 
       - name: Install Deployer
-        if: ${{ env.HAS_ARTIFACT == "true" }}
+        if: ${{ env.HAS_ARTIFACT }} == "true"
         run: |
           cd yari/deployer
           poetry install --no-interaction
 
       - name: Deploy and analyze built content
-        if: ${{ env.HAS_ARTIFACT == "true" }}
+        if: ${{ env.HAS_ARTIFACT }} == "true"
         env:
           BUILD_OUT_ROOT: ${{ github.workspace }}/build
 
