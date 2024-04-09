@@ -37,6 +37,7 @@ jobs:
           path: yari
 
       - name: Install Python
+        if: ${{ env.HAS_ARTIFACT }}
         id: setup-python
         uses: actions/setup-python@v5
         with:
@@ -70,7 +71,7 @@ jobs:
           key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}-${{ steps.setup-python.outputs.python-version }}-0
 
       - name: Install poetry dependencies
-        if: ${{ env.HAS_ARTIFACT }} && steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+        if: ${{ env.HAS_ARTIFACT && steps.cached-poetry-dependencies.outputs.cache-hit != 'true' }}
         run: |
           cd yari/deployer
           poetry install --no-interaction --no-root
