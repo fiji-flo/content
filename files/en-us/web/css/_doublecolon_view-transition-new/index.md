@@ -5,9 +5,9 @@ page-type: css-pseudo-element
 status:
   - experimental
 browser-compat: css.selectors.view-transition-new
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`::view-transition-new`** [CSS](/en-US/docs/Web/CSS) [pseudo-element](/en-US/docs/Web/CSS/Pseudo-elements) represents the "new" view state of a view transition — a live representation of the new view, after the transition.
 

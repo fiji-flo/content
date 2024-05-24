@@ -3,9 +3,9 @@ title: offset-distance
 slug: Web/CSS/offset-distance
 page-type: css-property
 browser-compat: css.properties.offset-distance
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`offset-distance`** CSS property specifies a position along an {{CSSxRef("offset-path")}} for an element to be placed.
 

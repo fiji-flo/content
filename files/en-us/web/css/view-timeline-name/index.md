@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.view-timeline-name
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`view-timeline-name`** [CSS](/en-US/docs/Web/CSS) property is used to define the name of a _named view progress timeline_, which is progressed through based on the change in visibility of an element (known as the _subject_) inside a scrollable element (_scroller_). `view-timeline` is set on the subject.
 

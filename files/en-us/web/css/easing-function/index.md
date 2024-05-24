@@ -3,9 +3,9 @@ title: <easing-function>
 slug: Web/CSS/easing-function
 page-type: css-type
 browser-compat: css.types.easing-function
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<easing-function>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents a mathematical function that describes the rate at which a value changes.
 

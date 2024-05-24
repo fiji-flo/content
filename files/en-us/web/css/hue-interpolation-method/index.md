@@ -11,9 +11,9 @@ browser-compat:
   - css.types.image.gradient.repeating-linear-gradient.hue_interpolation_method
   - css.types.image.gradient.repeating-radial-gradient.hue_interpolation_method
 spec-urls: https://drafts.csswg.org/css-color/#hue-interpolation
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<hue-interpolation-method>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents the algorithm used for interpolation between {{CSSXref("&lt;hue&gt;")}} values.
 The interpolation method specifies how to find a midpoint between two hue values based on a color wheel.

@@ -3,9 +3,9 @@ title: text-justify
 slug: Web/CSS/text-justify
 page-type: css-property
 browser-compat: css.properties.text-justify
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`text-justify`** CSS property sets what type of justification should be applied to text when {{cssxref("text-align")}}`: justify;` is set on an element.
 

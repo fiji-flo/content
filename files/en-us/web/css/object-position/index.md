@@ -3,9 +3,9 @@ title: object-position
 slug: Web/CSS/object-position
 page-type: css-property
 browser-compat: css.properties.object-position
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`object-position`** [CSS](/en-US/docs/Web/CSS) property specifies the alignment of the selected [replaced element](/en-US/docs/Web/CSS/Replaced_element)'s contents within the element's box. Areas of the box which aren't covered by the replaced element's object will show the element's background.
 

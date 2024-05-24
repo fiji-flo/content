@@ -3,9 +3,9 @@ title: <ident>
 slug: Web/CSS/ident
 page-type: css-type
 spec-urls: https://drafts.csswg.org/css-values/#css-identifier
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<ident>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) denotes an arbitrary string used as an {{glossary("identifier")}}.
 

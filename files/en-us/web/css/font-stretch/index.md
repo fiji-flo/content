@@ -3,9 +3,9 @@ title: font-stretch
 slug: Web/CSS/font-stretch
 page-type: css-property
 browser-compat: css.properties.font-stretch
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`font-stretch`** [CSS](/en-US/docs/Web/CSS) property selects a normal, condensed, or expanded face from a font.
 

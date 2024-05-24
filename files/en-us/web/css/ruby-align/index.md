@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.ruby-align
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`ruby-align`** CSS property defines the distribution of the different ruby elements over the base.
 

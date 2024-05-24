@@ -3,9 +3,9 @@ title: <number>
 slug: Web/CSS/number
 page-type: css-type
 browser-compat: css.types.number
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<number>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents a number, being either an integer or a number with a fractional component.
 

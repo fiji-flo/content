@@ -5,9 +5,9 @@ page-type: css-function
 status:
   - experimental
 browser-compat: css.properties.animation-timeline.view
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`view()`** [CSS function](/en-US/docs/Web/CSS/CSS_Functions) can be used with {{cssxref("animation-timeline")}} to indicate a subject element that will provide an anonymous view progress timeline to animate. The view progress timeline is progressed through by a change in visibility of the subject element inside the nearest ancestor scroller. The visibility of the subject inside the scroller is tracked — by default, the timeline is at 0% when the subject is first visible at one edge of the scroller, and 100% when it reaches the opposite edge.
 

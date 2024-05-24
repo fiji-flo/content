@@ -2,9 +2,9 @@
 title: Box alignment in flexbox
 slug: Web/CSS/CSS_box_alignment/Box_alignment_in_flexbox
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The [box alignment](/en-US/docs/Web/CSS/CSS_box_alignment) Specification details how alignment works in various layout methods; on this page, we explore how box alignment works in the context of Flexbox. As this page aims to detail things which are specific to Flexbox and box alignment, it should be read in conjunction with the main [box alignment](/en-US/docs/Web/CSS/CSS_box_alignment) page which details the common features of box alignment across layout methods.
 

@@ -3,9 +3,9 @@ title: mask-origin
 slug: Web/CSS/mask-origin
 page-type: css-property
 browser-compat: css.properties.mask-origin
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`mask-origin`** [CSS](/en-US/docs/Web/CSS) property sets the origin of a mask.
 

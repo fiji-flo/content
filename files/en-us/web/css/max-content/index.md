@@ -3,9 +3,9 @@ title: max-content
 slug: Web/CSS/max-content
 page-type: css-keyword
 browser-compat: css.properties.width.max-content
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The `max-content` sizing keyword represents the {{glossary("intrinsic size", "intrinsic")}} maximum width or height of the content. For text content this means that the content will not wrap at all even if it causes overflows.
 

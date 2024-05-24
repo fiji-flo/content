@@ -2,9 +2,9 @@
 title: Box alignment in multi-column layout
 slug: Web/CSS/CSS_box_alignment/Box_alignment_in_multi-column_layout
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The [box alignment](/en-US/docs/Web/CSS/CSS_box_alignment) specification details how alignment works in various layout methods; on this page we explore how Box Alignment works in the context of [multi-column Layout](/en-US/docs/Web/CSS/CSS_multicol_layout). As this page aims to detail things which are specific to Multi-column Layout and Box Alignment, it should be read in conjunction with the main [box alignment](/en-US/docs/Web/CSS/CSS_box_alignment) page which details the common features of Box Alignment across layout methods.
 

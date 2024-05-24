@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.initial-letter-align
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`initial-letter-align`** CSS property specifies the alignment of initial letters within a paragraph.
 

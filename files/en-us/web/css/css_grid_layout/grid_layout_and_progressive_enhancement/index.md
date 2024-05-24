@@ -2,9 +2,9 @@
 title: CSS Grid Layout and progressive enhancement
 slug: Web/CSS/CSS_grid_layout/Grid_layout_and_progressive_enhancement
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 In Spring of 2017, we saw for the first time a major specification like Grid being shipped into browsers almost simultaneously, and we now have CSS Grid Layout support in the public versions of Firefox, Chrome, Opera, Safari and Edge. However, while evergreen browsers mean that many of us are going to see the majority of users having Grid Layout support very quickly, there are also old or non-supporting browsers to contend with. In this guide we will walk through a variety of strategies for support.
 

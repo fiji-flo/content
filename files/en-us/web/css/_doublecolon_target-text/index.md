@@ -5,9 +5,9 @@ page-type: css-pseudo-element
 status:
   - experimental
 browser-compat: css.selectors.target-text
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`::target-text`** [CSS](/en-US/docs/Web/CSS) [pseudo-element](/en-US/docs/Web/CSS/Pseudo-elements) represents the text that has been scrolled to if the browser supports [text fragments](/en-US/docs/Web/Text_fragments). It allows authors to choose how to highlight that section of text.
 

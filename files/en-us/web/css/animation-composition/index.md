@@ -3,9 +3,9 @@ title: animation-composition
 slug: Web/CSS/animation-composition
 page-type: css-property
 browser-compat: css.properties.animation-composition
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`animation-composition`** [CSS](/en-US/docs/Web/CSS) property specifies the {{Glossary("composite operation")}} to use when multiple animations affect the same property simultaneously.
 

@@ -3,9 +3,9 @@ title: grid-auto-rows
 slug: Web/CSS/grid-auto-rows
 page-type: css-property
 browser-compat: css.properties.grid-auto-rows
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`grid-auto-rows`** CSS property specifies the size of an implicitly-created grid row {{glossary("grid tracks", "track")}} or pattern of tracks.
 

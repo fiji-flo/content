@@ -5,9 +5,9 @@ page-type: css-media-feature
 status:
   - deprecated
 browser-compat: css.at-rules.media.device-height
+sidebar: cssref
 ---
-
-{{CSSRef}} {{deprecated_header}}
+ {{deprecated_header}}
 
 > **Note:** To query for the height of the viewport, developers should use the [`height`](/en-US/docs/Web/CSS/@media/height) media feature instead.
 

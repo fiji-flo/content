@@ -3,9 +3,9 @@ title: border-color
 slug: Web/CSS/border-color
 page-type: css-shorthand-property
 browser-compat: css.properties.border-color
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`border-color`** [shorthand](/en-US/docs/Web/CSS/Shorthand_properties) [CSS](/en-US/docs/Web/CSS) property sets the color of an element's border.
 

@@ -4,9 +4,9 @@ slug: Web/CSS/Mozilla_Extensions
 page-type: landing-page
 status:
   - non-standard
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 Firefox supports a number of _Mozilla extensions to [CSS](/en-US/docs/Web/CSS)_, including properties, values, pseudo-elements and pseudo-classes, at-rules, and media queries. These extensions are prefixed with `-moz-`.
 

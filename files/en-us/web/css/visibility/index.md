@@ -3,9 +3,9 @@ title: visibility
 slug: Web/CSS/visibility
 page-type: css-property
 browser-compat: css.properties.visibility
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`visibility`** CSS property shows or hides an element without changing the layout of a document. The property can also hide rows or columns in a {{HTMLElement("table")}}.
 

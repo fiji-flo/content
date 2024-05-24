@@ -3,9 +3,9 @@ title: skewX()
 slug: Web/CSS/transform-function/skewX
 page-type: css-function
 browser-compat: css.types.transform-function.skewX
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`skewX()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) defines a transformation that skews an element in the
 horizontal direction on the 2D plane. Its result is a {{cssxref("&lt;transform-function&gt;")}} data type.

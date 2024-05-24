@@ -5,9 +5,9 @@ page-type: css-at-rule
 status:
   - experimental
 browser-compat: css.at-rules.starting-style
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`@starting-style`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) is used to define starting values for properties set on an element that you want to transition from when the element receives its first style update, i.e. when an element is first displayed on a previously loaded page.
 

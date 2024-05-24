@@ -3,9 +3,9 @@ title: "@font-palette-values"
 slug: Web/CSS/@font-palette-values
 page-type: css-at-rule
 browser-compat: css.at-rules.font-palette-values
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@font-palette-values`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) allows you to customize the default values of [font-palette](/en-US/docs/Web/CSS/font-palette) created by the font-maker.
 

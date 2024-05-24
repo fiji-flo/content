@@ -3,9 +3,9 @@ title: CSS overflow
 slug: Web/CSS/CSS_overflow
 page-type: css-module
 spec-urls: https://drafts.csswg.org/css-overflow/#propdef-overflow
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS overflow** module properties enable you to handle scrollable overflow in visual media.
 

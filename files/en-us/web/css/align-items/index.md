@@ -3,9 +3,9 @@ title: align-items
 slug: Web/CSS/align-items
 page-type: css-property
 browser-compat: css.properties.align-items
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The [CSS](/en-US/docs/Web/CSS) **`align-items`** property sets the {{cssxref("align-self")}} value on all direct children as a group. In Flexbox, it controls the alignment of items on the {{glossary("Cross Axis")}}. In Grid Layout, it controls the alignment of items on the Block Axis within their {{glossary("Grid Areas", "grid area")}}.
 

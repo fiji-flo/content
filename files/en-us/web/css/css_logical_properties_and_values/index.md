@@ -3,9 +3,9 @@ title: CSS logical properties and values
 slug: Web/CSS/CSS_logical_properties_and_values
 page-type: css-module
 spec-urls: https://drafts.csswg.org/css-logical/
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS logical properties and values** module introduces logical properties and values that provide the ability to control layout through logical, rather than physical, direction and dimension mappings.
 

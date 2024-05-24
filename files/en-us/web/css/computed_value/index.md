@@ -3,9 +3,9 @@ title: Computed value
 slug: Web/CSS/computed_value
 page-type: guide
 spec-urls: https://www.w3.org/TR/CSS22/cascade.html#computed-value
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **computed value** of a [CSS](/en-US/docs/Web/CSS) property is the value that is transferred from parent to child during inheritance. It is calculated from the [specified value](/en-US/docs/Web/CSS/specified_value) by:
 

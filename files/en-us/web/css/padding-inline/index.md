@@ -3,9 +3,9 @@ title: padding-inline
 slug: Web/CSS/padding-inline
 page-type: css-shorthand-property
 browser-compat: css.properties.padding-inline
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`padding-inline`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) defines the logical inline start and end padding of an element, which maps to physical padding properties depending on the element's writing mode, directionality, and text orientation.
 

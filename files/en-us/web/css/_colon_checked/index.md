@@ -3,9 +3,9 @@ title: ":checked"
 slug: Web/CSS/:checked
 page-type: css-pseudo-class
 browser-compat: css.selectors.checked
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`:checked`** [CSS](/en-US/docs/Web/CSS) [pseudo-class](/en-US/docs/Web/CSS/Pseudo-classes) selector represents any **radio** ([`<input type="radio">`](/en-US/docs/Web/HTML/Element/input/radio)), **checkbox** ([`<input type="checkbox">`](/en-US/docs/Web/HTML/Element/input/checkbox)), or **option** ({{HTMLElement("option")}} in a {{HTMLElement("select")}}) element that is checked or toggled to an `on` state.
 

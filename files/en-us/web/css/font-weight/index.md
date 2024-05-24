@@ -3,9 +3,9 @@ title: font-weight
 slug: Web/CSS/font-weight
 page-type: css-property
 browser-compat: css.properties.font-weight
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`font-weight`** [CSS](/en-US/docs/Web/CSS) property sets the weight (or boldness) of the font. The weights available depend on the {{cssxref("font-family")}} that is currently set.
 

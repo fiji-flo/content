@@ -5,9 +5,9 @@ page-type: css-pseudo-element
 status:
   - non-standard
 browser-compat: css.selectors.-webkit-meter-bar
+sidebar: cssref
 ---
-
-{{CSSRef}}{{Non-standard_header}}
+{{Non-standard_header}}
 
 The **`::-webkit-meter-bar`** [CSS](/en-US/docs/Web/CSS) [pseudo-element](/en-US/docs/Glossary/Pseudo-element) is a [WebKit extension](/en-US/docs/Web/CSS/WebKit_Extensions) that represents the meter bar in a {{HTMLElement("meter")}} element. It is used for selecting and applying styles to the container meter gauge.
 

@@ -3,9 +3,9 @@ title: <calc-sum>
 slug: Web/CSS/calc-sum
 page-type: css-type
 browser-compat: css.types.calc-sum
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<calc-sum>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents an expression which performs a calculation in any [CSS math function](/en-US/docs/Web/CSS/CSS_Functions#math_functions). The expression executes a basic arithmetic operation of addition and subtraction between two values.
 

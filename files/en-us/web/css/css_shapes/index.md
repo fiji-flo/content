@@ -3,9 +3,9 @@ title: CSS shapes
 slug: Web/CSS/CSS_shapes
 page-type: css-module
 spec-urls: https://drafts.csswg.org/css-shapes/
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS shapes** module describes geometric shapes that can be in CSS. For the [Level 1 specification](https://drafts.csswg.org/css-shapes/), CSS shapes can be applied to floating elements. The specification defines a number of different ways to define a shape on a floated element, causing wrapping lines to wrap round the shape rather than following the rectangle of the element's box.
 

@@ -2,9 +2,9 @@
 title: Basic concepts of multi-column layout
 slug: Web/CSS/CSS_multicol_layout/Basic_concepts
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 Multi-column layout, usually referred to as multicol layout, is a specification for laying out content into a set of column boxes much like columns in a newspaper. This guide explains how the specification works with some common use case examples.
 

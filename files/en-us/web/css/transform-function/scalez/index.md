@@ -3,9 +3,9 @@ title: scaleZ()
 slug: Web/CSS/transform-function/scaleZ
 page-type: css-function
 browser-compat: css.types.transform-function.scaleZ
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`scaleZ()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) defines a transformation that resizes an element along the
 z-axis. Its result is a {{cssxref("&lt;transform-function&gt;")}} data type.

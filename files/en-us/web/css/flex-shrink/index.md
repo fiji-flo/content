@@ -3,9 +3,9 @@ title: flex-shrink
 slug: Web/CSS/flex-shrink
 page-type: css-property
 browser-compat: css.properties.flex-shrink
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`flex-shrink`** [CSS](/en-US/docs/Web/CSS) property sets the flex shrink factor of a flex item. If the size of all flex items is larger than the flex container, items shrink to fit according to `flex-shrink`.
 

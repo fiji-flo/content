@@ -2,9 +2,9 @@
 title: Using CSS custom properties (variables)
 slug: Web/CSS/Using_CSS_custom_properties
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 **Custom properties** (sometimes referred to as **CSS variables** or **cascading variables**) are entities defined by CSS authors that represent specific values to be reused throughout a document. They are set using the {{cssxref("@property")}} at-rule or by [custom property syntax](/en-US/docs/Web/CSS/--*) (e.g., **`--primary-color: blue;`**). Custom properties are accessed using the CSS {{cssxref("var", "var()")}} function (e.g., **`color: var(--primary-color);`**).
 

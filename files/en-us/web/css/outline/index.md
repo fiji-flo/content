@@ -3,9 +3,9 @@ title: outline
 slug: Web/CSS/outline
 page-type: css-shorthand-property
 browser-compat: css.properties.outline
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`outline`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) sets most of the outline properties in a single declaration.
 

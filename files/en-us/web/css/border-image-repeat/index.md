@@ -3,9 +3,9 @@ title: border-image-repeat
 slug: Web/CSS/border-image-repeat
 page-type: css-property
 browser-compat: css.properties.border-image-repeat
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`border-image-repeat`** [CSS](/en-US/docs/Web/CSS) property defines how the [edge regions](/en-US/docs/Web/CSS/border-image-slice#edge-regions) and [middle region](/en-US/docs/Web/CSS/border-image-slice#middle-region) of a source image are adjusted to fit the dimensions of an element's [border image](/en-US/docs/Web/CSS/border-image). The middle region can be displayed by using the keyword "fill" in the border-image-slice property.
 

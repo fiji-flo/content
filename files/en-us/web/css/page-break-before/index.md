@@ -3,9 +3,9 @@ title: page-break-before
 slug: Web/CSS/page-break-before
 page-type: css-property
 browser-compat: css.properties.page-break-before
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 > **Warning:** This property has been replaced by the {{cssxref("break-before")}} property.
 

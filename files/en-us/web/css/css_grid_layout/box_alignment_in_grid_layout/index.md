@@ -2,9 +2,9 @@
 title: Box alignment in grid layout
 slug: Web/CSS/CSS_grid_layout/Box_alignment_in_grid_layout
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 CSS Grid Layout implements the specification [Box Alignment Level 3](https://drafts.csswg.org/css-align/) which is the same standard [flexbox](/en-US/docs/Web/CSS/CSS_flexible_box_layout) uses for aligning items in its flex container. This specification details how alignment should work in all the different layout methods. Layout methods will conform to the specification where possible and implement individual behavior based on their differences (features and constraints). While the specification currently specifies alignment details for all layout methods, browsers have not fully implemented all of the specification; however, the CSS Grid Layout method has been widely adopted.
 

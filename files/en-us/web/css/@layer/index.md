@@ -3,9 +3,9 @@ title: "@layer"
 slug: Web/CSS/@layer
 page-type: css-at-rule
 browser-compat: css.at-rules.layer
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@layer`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) is used to declare a cascade layer and can also be used to define the order of precedence in case of multiple cascade layers.
 

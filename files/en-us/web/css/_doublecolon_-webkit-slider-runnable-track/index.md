@@ -5,9 +5,9 @@ page-type: css-pseudo-element
 status:
   - experimental
 browser-compat: css.selectors.-webkit-slider-runnable-track
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`::-webkit-slider-runnable-track`** CSS [pseudo-element](/en-US/docs/Web/CSS/Pseudo-elements) represents the "track" (the groove in which the indicator slides) of an {{HTMLElement("input/range", '&lt;input type="range"&gt;')}}.
 

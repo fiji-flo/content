@@ -3,9 +3,9 @@ title: "@charset"
 slug: Web/CSS/@charset
 page-type: css-at-rule
 browser-compat: css.at-rules.charset
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@charset`** [CSS](/en-US/docs/Web/CSS) rule specifies the character encoding used in the style sheet. Although the first character in `@charset` is the `@` symbol, it is not an [at-rule](/en-US/docs/Web/CSS/At-rule). The [CSS syntax](/en-US/docs/Web/CSS/CSS_syntax) module deprecates this rule, defining it as an unrecognized legacy rule to be dropped when a stylesheet is grammar-checked, but it is [fully supported in all browsers](#browser_compatibility).
 

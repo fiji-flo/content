@@ -2,9 +2,9 @@
 title: CSS container queries
 slug: Web/CSS/CSS_containment/Container_queries
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 Container queries enable you to apply styles to an element based on the size of the element's container. If, for example, a container has less space available in the surrounding context, you can hide certain elements or use smaller fonts.
 

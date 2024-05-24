@@ -3,9 +3,9 @@ title: translateZ()
 slug: Web/CSS/transform-function/translateZ
 page-type: css-function
 browser-compat: css.types.transform-function.translateZ
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`translateZ()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) repositions an element along the z-axis in 3D space, i.e.,
 closer to or farther away from the viewer. Its result is a {{cssxref("&lt;transform-function&gt;")}} data type.

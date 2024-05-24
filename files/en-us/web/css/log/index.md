@@ -3,9 +3,9 @@ title: log()
 slug: Web/CSS/log
 page-type: css-function
 browser-compat: css.types.log
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`log()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) is an exponential function that returns the logarithm of a number.
 

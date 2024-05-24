@@ -3,9 +3,9 @@ title: <dashed-ident>
 slug: Web/CSS/dashed-ident
 page-type: css-type
 spec-urls: https://drafts.csswg.org/css-values/#dashed-idents
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<dashed-ident>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) denotes an arbitrary string used as an {{glossary("identifier")}}.
 

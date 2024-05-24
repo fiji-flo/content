@@ -3,9 +3,9 @@ title: text-rendering
 slug: Web/CSS/text-rendering
 page-type: css-property
 browser-compat: css.properties.text-rendering
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`text-rendering`** CSS property provides information to the rendering engine about what to optimize for when rendering text.
 

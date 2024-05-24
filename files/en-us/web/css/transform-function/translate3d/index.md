@@ -3,9 +3,9 @@ title: translate3d()
 slug: Web/CSS/transform-function/translate3d
 page-type: css-function
 browser-compat: css.types.transform-function.translate3d
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`translate3d()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) repositions an element in 3D space. Its result is a
 {{cssxref("&lt;transform-function&gt;")}} data type.

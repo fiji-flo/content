@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.initial-letter
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The `initial-letter` CSS property sets styling for dropped, raised, and sunken initial letters.
 

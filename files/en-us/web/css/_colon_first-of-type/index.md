@@ -3,9 +3,9 @@ title: ":first-of-type"
 slug: Web/CSS/:first-of-type
 page-type: css-pseudo-class
 browser-compat: css.selectors.first-of-type
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`:first-of-type`** [CSS](/en-US/docs/Web/CSS) [pseudo-class](/en-US/docs/Web/CSS/Pseudo-classes) represents the first element of its type among a group of sibling elements.
 

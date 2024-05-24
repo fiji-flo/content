@@ -3,9 +3,9 @@ title: gap
 slug: Web/CSS/gap
 page-type: css-shorthand-property
 browser-compat: css.properties.gap
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`gap`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) sets the gaps ({{glossary("gutters")}}) between rows and columns.
 

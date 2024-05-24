@@ -2,9 +2,9 @@
 title: Consistent list indentation
 slug: Web/CSS/CSS_lists/Consistent_list_indentation
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 One of the most common style changes made to lists is a change in the indentation distance—that is, how far the list items are pushed over to the right. This article will help you understand indenting list items so that list item markers are visible.
 

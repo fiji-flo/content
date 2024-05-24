@@ -3,9 +3,9 @@ title: place-self
 slug: Web/CSS/place-self
 page-type: css-shorthand-property
 browser-compat: css.properties.place-self
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`place-self`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) allows you to align an individual item in both the block and inline directions at once (i.e. the {{cssxref("align-self")}} and {{cssxref("justify-self")}} properties) in a relevant layout system such as [Grid](/en-US/docs/Web/CSS/CSS_grid_layout) or [Flexbox](/en-US/docs/Web/CSS/CSS_flexible_box_layout). If the second value is not present, the first value is also used for it.
 

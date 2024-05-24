@@ -3,9 +3,9 @@ title: right
 slug: Web/CSS/right
 page-type: css-property
 browser-compat: css.properties.right
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`right`** [CSS](/en-US/docs/Web/CSS) property participates in specifying the horizontal position of a [positioned element](/en-US/docs/Web/CSS/position). It has no effect on non-positioned elements.
 

@@ -2,9 +2,9 @@
 title: CSS box alignment
 slug: Web/CSS/CSS_box_alignment
 page-type: css-module
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS box alignment** module specifies CSS features that relate to the alignment of boxes in the various CSS box layout models: block layout, table layout, flex layout, and grid layout. The module aims to create a consistent method of alignment across all of CSS. This document details the general concepts found in the specification.
 

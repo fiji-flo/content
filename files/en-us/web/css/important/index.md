@@ -2,9 +2,9 @@
 title: "!important"
 slug: Web/CSS/important
 page-type: css-keyword
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 A `!` delimiter followed by the `important` keyword marks the declaration as important. The `!important` flag alters the rules selecting declarations inside the [cascade](/en-US/docs/Web/CSS/Cascade). A declaration that is not _important_ is called _normal_.
 

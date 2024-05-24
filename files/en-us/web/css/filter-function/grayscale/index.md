@@ -3,9 +3,9 @@ title: grayscale()
 slug: Web/CSS/filter-function/grayscale
 page-type: css-function
 browser-compat: css.types.filter-function.grayscale
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`grayscale()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) converts the input image to grayscale. Its result is a {{cssxref("&lt;filter-function&gt;")}}.
 

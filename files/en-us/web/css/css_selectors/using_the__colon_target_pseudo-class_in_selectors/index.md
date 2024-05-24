@@ -2,9 +2,9 @@
 title: Using the :target pseudo-class in selectors
 slug: Web/CSS/CSS_selectors/Using_the_:target_pseudo-class_in_selectors
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 When a URL points at a specific piece of a document, it can be difficult for the user to notice. Find out how you can use some simple CSS to draw attention to the target of a URL and improve the user's experience.
 

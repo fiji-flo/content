@@ -6,9 +6,9 @@ browser-compat: css.types.color.hsl
 spec-urls:
   - https://drafts.csswg.org/css-color-5/#relative-HSL
   - https://drafts.csswg.org/css-color/#the-hsl-notation
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`hsl()`** functional notation expresses a color in the {{glossary("RGB", "sRGB")}} {{glossary("color space")}} according to its _hue_, _saturation_, and _lightness_ components. An optional _alpha_ component represents the color's transparency.
 

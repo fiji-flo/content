@@ -2,9 +2,9 @@
 title: Basic concepts of grid layout
 slug: Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 [CSS grid layout](/en-US/docs/Web/CSS/CSS_grid_layout) introduces a two-dimensional grid system to CSS. Grids can be used to lay out major page areas or small user interface elements. This article introduces the CSS Grid Layout and the new terminology that is part of the CSS Grid Layout Level 1 specification. The features shown in this overview will then be explained in greater detail in the rest of this guide.
 

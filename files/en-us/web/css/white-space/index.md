@@ -3,9 +3,9 @@ title: white-space
 slug: Web/CSS/white-space
 page-type: css-property
 browser-compat: css.properties.white-space
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`white-space`** CSS property sets how {{Glossary("whitespace", "white space")}} inside an element is handled.
 

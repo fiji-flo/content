@@ -2,9 +2,9 @@
 title: In flow and out of flow
 slug: Web/CSS/CSS_flow_layout/In_flow_and_out_of_flow
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The [previous guide](/en-US/docs/Web/CSS/CSS_flow_layout/Block_and_inline_layout_in_normal_flow) explained block and inline layout in normal flow. All elements that are in flow will be laid out using this method.
 

@@ -3,9 +3,9 @@ title: border-right
 slug: Web/CSS/border-right
 page-type: css-shorthand-property
 browser-compat: css.properties.border-right
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`border-right`** [shorthand](/en-US/docs/Web/CSS/Shorthand_properties) [CSS](/en-US/docs/Web/CSS) property sets all the properties of an element's right [border](/en-US/docs/Web/CSS/border).
 

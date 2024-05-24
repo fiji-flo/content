@@ -3,9 +3,9 @@ title: color-scheme
 slug: Web/CSS/color-scheme
 page-type: css-property
 browser-compat: css.properties.color-scheme
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`color-scheme`** [CSS](/en-US/docs/Web/CSS) property allows an element to indicate which color schemes it can comfortably be rendered in.
 

@@ -3,9 +3,9 @@ title: matrix()
 slug: Web/CSS/transform-function/matrix
 page-type: css-function
 browser-compat: css.types.transform-function.matrix
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`matrix()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) defines a homogeneous 2D transformation matrix. Its result is
 a {{cssxref("&lt;transform-function&gt;")}} data type.

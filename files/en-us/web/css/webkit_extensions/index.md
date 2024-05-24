@@ -4,9 +4,9 @@ slug: Web/CSS/WebKit_Extensions
 page-type: landing-page
 status:
   - non-standard
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 User agents based on WebKit or Blink, such as Safari and Chrome, support several special extensions to [CSS](/en-US/docs/Web/CSS). These extensions are prefixed with `-webkit-`.
 

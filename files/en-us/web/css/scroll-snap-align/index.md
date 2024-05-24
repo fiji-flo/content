@@ -3,9 +3,9 @@ title: scroll-snap-align
 slug: Web/CSS/scroll-snap-align
 page-type: css-property
 browser-compat: css.properties.scroll-snap-align
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The `scroll-snap-align` property specifies the box's snap position as an alignment of its snap area (as the alignment subject) within its snap container's snap port (as the alignment container).
 

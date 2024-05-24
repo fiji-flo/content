@@ -3,9 +3,9 @@ title: line-height
 slug: Web/CSS/line-height
 page-type: css-property
 browser-compat: css.properties.line-height
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`line-height`** [CSS](/en-US/docs/Web/CSS) property sets the height of a line box. It's commonly used to set the distance between lines of text. On block-level elements, it specifies the minimum height of line boxes within the element. On non-[replaced](/en-US/docs/Web/CSS/Replaced_element) inline elements, it specifies the height that is used to calculate line box height.
 

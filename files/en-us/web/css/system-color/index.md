@@ -3,9 +3,9 @@ title: <system-color>
 slug: Web/CSS/system-color
 page-type: css-type
 browser-compat: css.types.color.system-color
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<system-color>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) usually reflects the default color choices used for the different parts of a web page.
 

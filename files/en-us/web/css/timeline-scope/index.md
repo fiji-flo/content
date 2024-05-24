@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.timeline-scope
+sidebar: cssref
 ---
-
-{{CSSRef}}{{seecompattable}}
+{{seecompattable}}
 
 The **`timeline-scope`** [CSS](/en-US/docs/Web/CSS) property modifies the scope of a named animation timeline.
 

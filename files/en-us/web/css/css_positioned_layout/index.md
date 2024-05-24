@@ -3,9 +3,9 @@ title: CSS positioned layout
 slug: Web/CSS/CSS_positioned_layout
 page-type: css-module
 spec-urls: https://drafts.csswg.org/css-position/
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS positioned layout** module defines how to position elements on a web page.
 

@@ -3,9 +3,9 @@ title: "@counter-style"
 slug: Web/CSS/@counter-style
 page-type: css-at-rule
 browser-compat: css.at-rules.counter-style
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@counter-style`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) lets you extend predefined list styles and define your own counter styles that are not part of the predefined set of styles. The `@counter-style` rule contains [descriptors](#descriptors) defining how the counter value is converted into a string representation.
 

@@ -2,9 +2,9 @@
 title: Grids, logical values, and writing modes
 slug: Web/CSS/CSS_grid_layout/Grids_logical_values_and_writing_modes
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 In these guides, I have already touched on an important feature of grid layout: the support for different writing modes that is built into the specification. For this guide, we will look at this feature of grid and other modern layout methods, learning a little about writing modes and logical vs. physical properties as we do so.
 

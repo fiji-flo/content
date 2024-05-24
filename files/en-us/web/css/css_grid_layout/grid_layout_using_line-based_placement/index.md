@@ -2,9 +2,9 @@
 title: Grid layout using line-based placement
 slug: Web/CSS/CSS_grid_layout/Grid_layout_using_line-based_placement
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 In the [article covering the basic concepts of grid layout](/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout), we started to look at how to position items on a grid using line numbers. In this article, we will fully explore how this fundamental feature of the specification works.
 

@@ -3,9 +3,9 @@ title: overscroll-behavior
 slug: Web/CSS/overscroll-behavior
 page-type: css-shorthand-property
 browser-compat: css.properties.overscroll-behavior
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`overscroll-behavior`** CSS property sets what a browser does when reaching the boundary of a scrolling area.
 

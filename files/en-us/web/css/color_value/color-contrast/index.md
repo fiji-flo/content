@@ -5,9 +5,9 @@ page-type: css-function
 status:
   - experimental
 browser-compat: css.types.color.color-contrast
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`color-contrast()`** functional notation takes a {{cssxref("color_value","color")}} value and compares it to a list of other {{cssxref("color_value","color")}} values, selecting the one with the highest contrast from the list.
 

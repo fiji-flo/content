@@ -6,9 +6,9 @@ browser-compat: css.types.color.rgb
 spec-urls:
   - https://drafts.csswg.org/css-color-5/#relative-RGB
   - https://drafts.csswg.org/css-color/#rgb-functions
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`rgb()`** functional notation expresses a color in the {{glossary("RGB", "sRGB")}} {{glossary("color space")}} according to its red, green, and blue components. An optional alpha component represents the color's transparency.
 

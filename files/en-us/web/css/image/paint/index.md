@@ -3,9 +3,9 @@ title: paint()
 slug: Web/CSS/image/paint
 page-type: css-function
 browser-compat: css.types.image.paint
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`paint()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) defines an {{cssxref("&lt;image&gt;")}} value generated with a PaintWorklet.
 

@@ -5,9 +5,9 @@ page-type: css-pseudo-class
 status:
   - non-standard
 browser-compat: css.selectors.-moz-drag-over
+sidebar: cssref
 ---
-
-{{CSSRef}}{{Non-standard_header}}
+{{Non-standard_header}}
 
 The **`:-moz-drag-over`** [CSS](/en-US/docs/Web/CSS) [pseudo-class](/en-US/docs/Web/CSS/Pseudo-classes) is a [Mozilla extension](/en-US/docs/Web/CSS/Mozilla_Extensions) that matches an element when a {{domxref("HTMLElement/dragover_event", "dragover")}} event is called on it.
 

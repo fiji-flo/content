@@ -3,9 +3,9 @@ title: border-block-end
 slug: Web/CSS/border-block-end
 page-type: css-shorthand-property
 browser-compat: css.properties.border-block-end
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`border-block-end`** [CSS](/en-US/docs/Web/CSS) property is a [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) for setting the individual logical block-end border property values in a single place in the style sheet.
 

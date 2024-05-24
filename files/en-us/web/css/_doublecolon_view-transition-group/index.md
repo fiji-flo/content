@@ -5,9 +5,9 @@ page-type: css-pseudo-element
 status:
   - experimental
 browser-compat: css.selectors.view-transition-group
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`::view-transition-group`** [CSS](/en-US/docs/Web/CSS) [pseudo-element](/en-US/docs/Web/CSS/Pseudo-elements) represents a single view transition group.
 

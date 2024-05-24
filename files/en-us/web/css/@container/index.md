@@ -3,9 +3,9 @@ title: "@container"
 slug: Web/CSS/@container
 page-type: css-at-rule
 browser-compat: css.at-rules.container
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@container`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) is a conditional group rule that applies styles to a [containment context](/en-US/docs/Web/CSS/CSS_containment/Container_queries#naming_containment_contexts).
 Style declarations are filtered by a condition and applied to the container if the condition is true.

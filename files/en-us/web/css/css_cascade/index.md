@@ -5,9 +5,9 @@ page-type: css-module
 spec-urls:
   - https://drafts.csswg.org/css-cascade/
   - https://drafts.csswg.org/css-cascade-5/
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS cascade and inheritance** module defines the rules for assigning values to properties by way of cascading and inheritance. This module specifies the rules for finding the specified value for all properties on all elements.
 

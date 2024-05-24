@@ -3,9 +3,9 @@ title: Used value
 slug: Web/CSS/used_value
 page-type: guide
 spec-urls: https://www.w3.org/TR/CSS22/cascade.html#used-value
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **used value** of a [CSS](/en-US/docs/Web/CSS) property is its value after all calculations have been performed on the [computed value](/en-US/docs/Web/CSS/computed_value).
 

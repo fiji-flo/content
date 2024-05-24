@@ -3,9 +3,9 @@ title: mask-type
 slug: Web/CSS/mask-type
 page-type: css-property
 browser-compat: css.properties.mask-type
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`mask-type`** [CSS](/en-US/docs/Web/CSS) property sets whether an SVG {{svgElement("mask")}} element is used as a _luminance_ or an _alpha_ mask. It applies to the `<mask>` element itself.
 

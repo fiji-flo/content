@@ -2,9 +2,9 @@
 title: Using z-index
 slug: Web/CSS/CSS_positioned_layout/Understanding_z-index/Using_z-index
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The first article of this guide, [Stacking without the z-index property](/en-US/docs/Web/CSS/CSS_positioned_layout/Understanding_z-index/Stacking_without_z-index), explains how stacking is arranged by default. If you want to create a custom stacking order, you can use the {{cssxref("z-index")}} property on a [positioned](/en-US/docs/Web/CSS/position#types_of_positioning) element.
 

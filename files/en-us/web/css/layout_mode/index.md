@@ -2,9 +2,9 @@
 title: Layout mode
 slug: Web/CSS/Layout_mode
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 A [CSS](/en-US/docs/Web/CSS) **layout mode**, sometimes called _layout_, is an algorithm that determines the position and size of boxes based on the way they interact with their sibling and ancestor boxes. There are several of them:
 

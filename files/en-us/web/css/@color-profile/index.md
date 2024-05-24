@@ -4,9 +4,9 @@ slug: Web/CSS/@color-profile
 page-type: css-at-rule
 browser-compat: css.at-rules.color-profile
 spec-urls: https://www.w3.org/TR/css-color-5/#at-profile
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@color-profile`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) defines and names a color profile which can later be used in the {{cssxref("color_value/color", "color()")}} function to specify a color.
 

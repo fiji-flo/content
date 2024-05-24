@@ -3,9 +3,9 @@ title: CSS backgrounds and borders
 slug: Web/CSS/CSS_backgrounds_and_borders
 page-type: css-module
 spec-urls: https://drafts.csswg.org/css-backgrounds/
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS backgrounds and borders** module provides properties for adding borders, rounded corners, and box shadows to elements.
 

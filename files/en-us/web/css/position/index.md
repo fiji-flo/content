@@ -3,9 +3,9 @@ title: position
 slug: Web/CSS/position
 page-type: css-property
 browser-compat: css.properties.position
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`position`** [CSS](/en-US/docs/Web/CSS) property sets how an element is positioned in a document. The {{Cssxref("top")}}, {{Cssxref("right")}}, {{Cssxref("bottom")}}, and {{Cssxref("left")}} properties determine the final location of positioned elements.
 

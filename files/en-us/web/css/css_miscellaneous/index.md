@@ -2,9 +2,9 @@
 title: CSS miscellaneous
 slug: Web/CSS/CSS_miscellaneous
 page-type: css-module
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 These pages contain CSS properties that are supported by browsers but either aren't included in a CSS specification, don't fit into any other CSS categories, or are experimental.
 

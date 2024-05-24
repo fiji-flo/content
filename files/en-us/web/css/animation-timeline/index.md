@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.animation-timeline
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`animation-timeline`** [CSS](/en-US/docs/Web/CSS) property specifies the timeline that is used to control the progress of a CSS animation.
 

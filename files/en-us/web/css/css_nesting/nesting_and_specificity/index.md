@@ -2,9 +2,9 @@
 title: CSS nesting and specificity
 slug: Web/CSS/CSS_nesting/Nesting_and_specificity
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The {{cssxref('specificity')}} of the `&` nesting selector is calculated using the largest specificity in the associated selector list. This is identical to how specificity is calculated when using the {{cssxref(':is',':is()')}} function.
 

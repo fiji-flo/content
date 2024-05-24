@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.view-transition-name
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`view-transition-name`** [CSS](/en-US/docs/Web/CSS) property provides the selected element with a distinct identifying name (a {{cssxref("custom-ident")}}) and causes it to participate in a separate [view transition](/en-US/docs/Web/API/View_Transitions_API) from the root view transition — or no view transition if the `none` value is specified.
 

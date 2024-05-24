@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - non-standard
 browser-compat: css.properties.-webkit-overflow-scrolling
+sidebar: cssref
 ---
-
-{{CSSRef}} {{Non-standard_header}}
+ {{Non-standard_header}}
 
 The `-webkit-overflow-scrolling` [CSS](/en-US/docs/Web/CSS) property controls whether or not touch devices use momentum-based scrolling for a given element.
 

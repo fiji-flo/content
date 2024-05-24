@@ -3,9 +3,9 @@ title: counter-set
 slug: Web/CSS/counter-set
 page-type: css-property
 browser-compat: css.properties.counter-set
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`counter-set`** [CSS](/en-US/docs/Web/CSS) property sets [CSS counters](/en-US/docs/Web/CSS/CSS_counter_styles/Using_CSS_counters) to the given values.
 

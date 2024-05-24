@@ -3,9 +3,9 @@ title: direction
 slug: Web/CSS/direction
 page-type: css-property
 browser-compat: css.properties.direction
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 > **Warning:** Where possible, authors are encouraged to avoid using the `direction` CSS property and use the HTML [`dir`](/en-US/docs/Web/HTML/Global_attributes#dir) global attribute instead.
 

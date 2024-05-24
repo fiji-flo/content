@@ -3,9 +3,9 @@ title: circle()
 slug: Web/CSS/basic-shape/circle
 page-type: css-function
 browser-compat: css.types.basic-shape.circle
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`circle()`** CSS [function](/en-US/docs/Web/CSS/CSS_Functions) defines a circle using a radius and a position. It is one of the {{cssxref("&lt;basic-shape&gt;")}} data types.
 

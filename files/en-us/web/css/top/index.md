@@ -3,9 +3,9 @@ title: top
 slug: Web/CSS/top
 page-type: css-property
 browser-compat: css.properties.top
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`top`** [CSS](/en-US/docs/Web/CSS) property sets the vertical position of a [positioned element](/en-US/docs/Web/CSS/position). It does not effect non-positioned elements.
 

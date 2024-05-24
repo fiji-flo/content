@@ -2,9 +2,9 @@
 title: Replaced elements
 slug: Web/CSS/Replaced_element
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 In [CSS](/en-US/docs/Web/CSS), a **replaced element** is an element whose representation is outside the scope of CSS; they're external objects whose representation is independent of the CSS formatting model.
 

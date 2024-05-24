@@ -3,9 +3,9 @@ title: overflow
 slug: Web/CSS/overflow
 page-type: css-shorthand-property
 browser-compat: css.properties.overflow
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`overflow`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) sets the desired behavior when content does not fit in the element's padding box (overflows) in the horizontal and/or vertical direction.
 

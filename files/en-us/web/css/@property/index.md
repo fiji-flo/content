@@ -3,9 +3,9 @@ title: "@property"
 slug: Web/CSS/@property
 page-type: css-at-rule
 browser-compat: css.at-rules.property
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`@property`** [CSS](/en-US/docs/Web/CSS) [at-rule](/en-US/docs/Web/CSS/At-rule) is part of the [CSS Houdini](/en-US/docs/Web/API/Houdini_APIs) umbrella of APIs. It allows developers to explicitly define their {{cssxref('--*', 'CSS custom properties')}}, allowing for property type checking and constraining, setting default values, and defining whether a custom property can inherit values or not.
 

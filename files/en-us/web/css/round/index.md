@@ -3,9 +3,9 @@ title: round()
 slug: Web/CSS/round
 page-type: css-function
 browser-compat: css.types.round
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`round()`** [CSS](/en-US/docs/Web/CSS) [function](/en-US/docs/Web/CSS/CSS_Functions) returns a rounded number based on a selected rounding strategy.
 

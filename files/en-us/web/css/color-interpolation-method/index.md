@@ -11,9 +11,9 @@ browser-compat:
   - css.types.image.gradient.repeating-linear-gradient.interpolation_color_space
   - css.types.image.gradient.repeating-radial-gradient.interpolation_color_space
 spec-urls: https://drafts.csswg.org/css-color/#interpolation-space
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<color-interpolation-method>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents the color space used for interpolation between {{CSSXref("&lt;color&gt;")}} values. It can be used to override the default interpolation color space for color-related functional notations such as {{CSSXref("color_value/color-mix", "color-mix()")}} and {{CSSXref("gradient/linear-gradient", "linear-gradient()")}}.
 

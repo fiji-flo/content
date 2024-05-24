@@ -3,9 +3,9 @@ title: <time>
 slug: Web/CSS/time
 page-type: css-type
 browser-compat: css.types.time
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`<time>`** [CSS](/en-US/docs/Web/CSS) [data type](/en-US/docs/Web/CSS/CSS_Types) represents a time value expressed in seconds or milliseconds. It is used in {{cssxref("animation")}}, {{cssxref("transition")}}, and related properties.
 

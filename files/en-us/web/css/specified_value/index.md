@@ -3,9 +3,9 @@ title: Specified value
 slug: Web/CSS/specified_value
 page-type: guide
 spec-urls: https://www.w3.org/TR/CSS22/cascade.html#specified-value
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **specified value** of a [CSS](/en-US/docs/Web/CSS) property is the value it receives from the document's style sheet. The specified value for a given property is determined according to the following rules:
 

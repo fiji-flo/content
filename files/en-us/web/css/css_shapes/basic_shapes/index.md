@@ -2,9 +2,9 @@
 title: Basic shapes
 slug: Web/CSS/CSS_shapes/Basic_shapes
 page-type: guide
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 CSS Shapes can be defined using the {{cssxref("&lt;basic-shape&gt;")}} type, and in this guide I'll explain how each of the different values accepted by this type work. They range from simple circles to complex polygons.
 

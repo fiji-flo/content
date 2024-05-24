@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.justify-tracks
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`justify-tracks`** CSS property sets the alignment in the masonry axis for grid containers that have [masonry](/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout) in their inline axis.
 

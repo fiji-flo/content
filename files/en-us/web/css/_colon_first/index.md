@@ -3,9 +3,9 @@ title: ":first"
 slug: Web/CSS/:first
 page-type: css-pseudo-class
 browser-compat: css.selectors.first
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`:first`** [CSS](/en-US/docs/Web/CSS) [pseudo-class](/en-US/docs/Web/CSS/Pseudo-classes), used with the {{cssxref("@page")}} [at-rule](/en-US/docs/Web/CSS/At-rule), represents the first page of a printed document. (See {{cssxref(":first-child")}} for general first element of a node.)
 

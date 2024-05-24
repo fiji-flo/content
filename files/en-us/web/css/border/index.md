@@ -3,9 +3,9 @@ title: border
 slug: Web/CSS/border
 page-type: css-shorthand-property
 browser-compat: css.properties.border
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`border`** [shorthand](/en-US/docs/Web/CSS/Shorthand_properties) [CSS](/en-US/docs/Web/CSS) property sets an element's border. It sets the values of {{Cssxref("border-width")}}, {{Cssxref("border-style")}}, and {{Cssxref("border-color")}}.
 

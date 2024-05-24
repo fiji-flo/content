@@ -5,9 +5,9 @@ page-type: css-module
 spec-urls:
   - https://drafts.csswg.org/css-box-4/
   - https://drafts.csswg.org/css-box-3/
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **CSS box model** module defines the `height`, `width`, `margin`, and `padding` properties, which along with [border properties](/en-US/docs/Web/CSS/CSS_backgrounds_and_borders) make up the CSS [box model](/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model).
 

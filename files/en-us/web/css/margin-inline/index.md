@@ -3,9 +3,9 @@ title: margin-inline
 slug: Web/CSS/margin-inline
 page-type: css-shorthand-property
 browser-compat: css.properties.margin-inline
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`margin-inline`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) is a shorthand property that defines both the logical inline start and end margins of an element, which maps to physical margins depending on the element's writing mode, directionality, and text orientation.
 

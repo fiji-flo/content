@@ -3,9 +3,9 @@ title: flex-grow
 slug: Web/CSS/flex-grow
 page-type: css-property
 browser-compat: css.properties.flex-grow
+sidebar: cssref
 ---
 
-{{CSSRef}}
 
 The **`flex-grow`** [CSS](/en-US/docs/Web/CSS) property sets the flex grow factor, which specifies how much of the flex container's remaining space should be assigned to the flex item's [main size](https://www.w3.org/TR/css-flexbox/#main-size).
 

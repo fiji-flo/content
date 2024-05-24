@@ -5,9 +5,9 @@ page-type: css-property
 status:
   - experimental
 browser-compat: css.properties.view-timeline-inset
+sidebar: cssref
 ---
-
-{{CSSRef}}{{SeeCompatTable}}
+{{SeeCompatTable}}
 
 The **`view-timeline-inset`** [CSS](/en-US/docs/Web/CSS) property is used to specify one or two values representing an adjustment to the position of the scrollport (see {{glossary("Scroll container")}} for more details) in which the subject element of a _named view progress timeline_ animation is deemed to be visible. Put another way, this allows you to specify start and/or end inset (or outset) values that offset the position of the timeline.
 

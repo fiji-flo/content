@@ -6,9 +6,9 @@ status:
   - deprecated
   - non-standard
 browser-compat: css.properties.-moz-user-input
+sidebar: cssref
 ---
-
-{{CSSRef}}{{Non-standard_Header}}{{Deprecated_Header}}
+{{Non-standard_Header}}{{Deprecated_Header}}
 
 In Mozilla applications, **`-moz-user-input`** determines if an element will accept user input.
 
