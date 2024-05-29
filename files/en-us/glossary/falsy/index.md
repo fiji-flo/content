@@ -2,9 +2,9 @@
 title: Falsy
 slug: Glossary/Falsy
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 A **falsy** (sometimes written **falsey**) value is a value that is considered false when encountered in a {{Glossary("Boolean")}} context.
 

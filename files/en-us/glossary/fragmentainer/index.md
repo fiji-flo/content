@@ -2,9 +2,9 @@
 title: Fragmentainer
 slug: Glossary/Fragmentainer
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 A fragmentainer is defined in the [CSS Fragmentation Specification](https://www.w3.org/TR/css-break-3/) as follows:
 

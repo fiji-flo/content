@@ -2,9 +2,9 @@
 title: Tag
 slug: Glossary/Tag
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 In {{Glossary("HTML")}}, a **tag** is used for creating an {{Glossary("element")}}.
 

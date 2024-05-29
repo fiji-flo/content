@@ -2,9 +2,9 @@
 title: Forbidden response header name
 slug: Glossary/Forbidden_response_header_name
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 A _forbidden response header name_ is an [HTTP header](/en-US/docs/Web/HTTP/Headers) name (`Set-Cookie`) that cannot be modified programmatically.
 

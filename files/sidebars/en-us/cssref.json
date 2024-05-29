@@ -107,55 +107,64 @@
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Modules",
-    "tags": "css-module"
+    "tags": "css-module",
+    "details": true
   },
   {
     "type": "listSubPagesGrouped",
     "path": "/en-US/docs/Web/CSS",
     "title": "Properties",
-    "tags": ["css-property", "css-shorthand-property"]
+    "tags": ["css-property", "css-shorthand-property"],
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Selectors",
-    "tags": "css-selector"
+    "tags": "css-selector",
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Combinators",
-    "tags": "css-combinator"
+    "tags": "css-combinator",
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Pseudo-classes",
-    "tags": "css-pseudo-class"
+    "tags": "css-pseudo-class",
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Pseudo-elements",
-    "tags": "css-pseudo-element"
+    "tags": "css-pseudo-element",
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "At-rules",
-    "tags": "css-at-rule"
+    "tags": "css-at-rule",
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Functions",
-    "tags": "css-function"
+    "tags": "css-function",
+    "details": true
   },
   {
     "type": "listSubPages",
     "path": "/en-US/docs/Web/CSS",
     "title": "Types",
-    "tags": "css-type"
+    "tags": "css-type",
+    "details": true
   },
   { "type": "section", "title": "Guides" },
   {

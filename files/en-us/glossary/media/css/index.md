@@ -2,9 +2,9 @@
 title: Media (CSS)
 slug: Glossary/Media/CSS
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 In the context of {{Glossary("CSS")}} (Cascading Style Sheets), the term **_media_** refers to the destination to which the document is to be drawn by the {{Glossary("rendering engine")}}.
 

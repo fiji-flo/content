@@ -2,9 +2,9 @@
 title: Prerender
 slug: Glossary/Prerender
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 Prerendering refers to the practice of speculatively [prefetching](/en-US/docs/Glossary/Prefetch) and _rendering_ pages that the user is likely to navigate to in the near future (the browser renders the page in the background in what is effectively an invisible separate tab). Prerendering includes downloading a document's subresources and running associated JavaScript.
 

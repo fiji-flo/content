@@ -2,9 +2,9 @@
 title: Locale
 slug: Glossary/Locale
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 **Locale** is a set of language- or country-based preferences for a user interface.
 

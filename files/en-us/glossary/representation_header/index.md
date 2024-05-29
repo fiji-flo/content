@@ -2,9 +2,9 @@
 title: Representation header
 slug: Glossary/Representation_header
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 A **representation header** is an {{glossary("HTTP_header", "HTTP header")}} that describes one particular _representation_ of a resource.
 

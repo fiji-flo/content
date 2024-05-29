@@ -2,9 +2,9 @@
 title: Alignment subject
 slug: Glossary/Alignment_Subject
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 In [CSS box alignment](/en-US/docs/Web/CSS/CSS_box_alignment) the **alignment subject** is the thing (or things) being aligned by the property.
 

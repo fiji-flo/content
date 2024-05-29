@@ -2,9 +2,9 @@
 title: ASCII
 slug: Glossary/ASCII
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 **ASCII** (_American Standard Code for Information Interchange_) is a character encoding standard using 7-bit to represent 128 characters used by computers for converting letters, numbers, punctuation, and control codes into digital form.
 

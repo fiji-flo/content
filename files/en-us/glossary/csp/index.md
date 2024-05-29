@@ -2,9 +2,9 @@
 title: CSP
 slug: Glossary/CSP
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 A **CSP** ([Content Security Policy](/en-US/docs/Web/HTTP/CSP)) is used to detect and mitigate certain types of website related attacks like {{Glossary("Cross-site_scripting")}}, [clickjacking](/en-US/docs/Glossary/Clickjacking) and data injections.
 

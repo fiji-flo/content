@@ -2,9 +2,9 @@
 title: Baseline (compatibility)
 slug: Glossary/Baseline/Compatibility
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 **Baseline** identifies web platform features that work across browsers.
 Baseline helps you decide when to use a feature by telling you when it is less likely to cause compatibility problems for your site's visitors.

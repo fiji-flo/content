@@ -2,9 +2,9 @@
 title: Web standards
 slug: Glossary/Web_standards
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 Web standards are rules established by international standards bodies that define how the {{Glossary("World Wide Web", "Web")}} works (and which sometimes control the {{Glossary("Internet")}} as well).
 

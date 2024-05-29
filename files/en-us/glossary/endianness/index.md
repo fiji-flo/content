@@ -2,9 +2,9 @@
 title: Endianness
 slug: Glossary/Endianness
 page-type: glossary-definition
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 **Endian** and **endianness** (or "byte-order") describe how computers organize the bytes that make up numbers.
 

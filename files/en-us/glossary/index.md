@@ -3,9 +3,9 @@ title: "MDN Web Docs Glossary: Definitions of Web-related terms"
 short-title: Glossary
 slug: Glossary
 page-type: landing-page
+sidebar: glossarysidebar
 ---
 
-{{GlossarySidebar}}
 
 Web technologies contain long lists of jargon and abbreviations that are used in documentation and coding. This glossary provides definitions of words and abbreviations you need to know to successfully understand and build for the web.
 
