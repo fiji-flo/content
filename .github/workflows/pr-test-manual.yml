@@ -15,8 +15,8 @@ jobs:
     # any accidental write access to the repository.
     permissions: read-all
     env:
-      BASE_SHA: ${{ github.event.pull_request.base.sha }}
-      HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+      BASE_SHA: c9f96f06d4
+      HEAD_SHA: c86c36ca47
       # This is the directory where the built files will be placed.
       # It's also hardcoded in the `yarn build` command in package.json.
       # If you change it here, you must also make the same change in
